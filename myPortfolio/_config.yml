@@ -1,2 +1,1 @@
-exclude:
-- README.me
+exclude: -README.me
